@@ -38,7 +38,7 @@ To run the code, simply download the files into your local drive and open them u
 We are group 1 of lab group SDAC
 | Name | GitHub ID |
 | -----|-----------|
-| Brandon Jang Jin Tian | - |
+| Brandon Jang Jin Tian | @BrandonJang |
 | Goh Anna, Ninette | - |
 | Keith Lim En Kai | - |
 | Tee Qin Tong Bettina | @BettinaTee03 |
